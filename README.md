@@ -1,1 +1,1 @@
-# Typing_Test_Checker
+# Typing-Test-Checker
