@@ -40,6 +40,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 3)<b>Video demo:</b>
 
+https://github.com/FenilVadher/Typing-Test-Checker/assets/115222424/8d7b5dbb-b197-43be-8a28-c73980ab1e99
+
+
 
 
 
